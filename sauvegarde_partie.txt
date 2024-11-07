@@ -1,9 +1,0 @@
-Heros_Nom: Hrun
-Heros_PV: 26
-Heros_PA: 10
-Heros_Niveau: 5
-Heros_Potions: 1
-Heros_WeaponDamage: 5
-Creature_PV: 15
-Creature_PA: 8
-Creature_Niveau: 3
